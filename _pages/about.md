@@ -23,8 +23,10 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Software
 ======
-You don't need an expensive software license to be "data-driven". Some of these tools are on the advanced side, but I will try to add tools with low barriers to entry over time. Some of these are web-based. 
-1. [NASA Earth Explorer](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+You don't need an expensive software license to be "data-driven". Some of these tools are on the advanced side, but I will try to add tools with low barriers to entry over time. Some of these are web-based.
+1. [Maryland iMap Geocoder Service](https://geodata.md.gov/dist/) Free batch geocoding of addresses, just upload your spreadsheet. This is good for getting points on a map if you have collected a bunch of data and do not know how to get it into map form. [Help](https://imap.maryland.gov/Documents/Training/HowToUseMarylandCompositeLocatorInArcGISDesktop.pdf) here.
+1. [NASA Earth Data](https://search.earthdata.nasa.gov/search) TONS of map layers in an easy to use web interface. Export to your own software if needed. Nearly any type of information about the land and environment, and near real-time satellite imagery. Multispectral imagery exists as well which lets you see features from the sky you may not be able to otherwise.  
+1. [USGS Earth Explorer](https://earthexplorer.usgs.gov/) More data about the physical earth. Additional abilities for geocoding and exporting.  
 1. [Google Earth Pro](https://github.com/academicpages/academicpages.github.io) the desktop version allows you to import datasets listed throughout this page and combine them together in Earth. If you just want a quick lookaround, [Google Earth Web](https://earth.google.com/web) exists too.  
 1. [R](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. [Jupyter Notebooks](https://jupyter.org/) for people who like to use Python in their data analysis, this is an easy way to use it. [Help documentation](https://jupyter.org/documentation)
