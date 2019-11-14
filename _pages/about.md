@@ -38,6 +38,7 @@ You don't need an expensive software license to be "data-driven". Some of these 
 1. [](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. [](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. [](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
-Can I help you?
-------
+
+How can I help you?
+======
 Click the menu icon on the upper-right of the page. You will find a form where you can ask me for help directly, or request drone services. 
