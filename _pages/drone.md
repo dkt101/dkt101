@@ -4,7 +4,7 @@ title: "Custom Aerial Photography"
 author_profile: true
 ---
 Certified Remote Pilot
-[logo]: https://raw.githubusercontent.com/dkt101/dkt101/master/images/dronepic.PNG "Drone Picture"
+![Drone pic](/images/dronepic.PNG)
 :   Several years in professional flight services for drone/uas/suas/remote aircraft.
 
 Some of the projects I work on regularly
