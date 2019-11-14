@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Free Transportation Data Sources"
 title_separator          : "-"
 name                     : &name "Daniel Knopp, MPP"
-description              : &description "This site is loaded with resources to plan, pitch, and evaluate your transportation plan"
+description              : &description "This site is loaded with resources to plan, pitch, and evaluate your transportation goals"
 url                      : https://dkt101.github.io #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/dkt101"
 repository               : "https://github.com/dkt101/dkt101"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Daniel Knopp MPP"
   avatar           : "profile.png"
-  bio              : "Your Librarian for Transportation Data"
+  bio              : "Your librarian for transportation data"
   location         : "Baltimore City"
 #  employer         : Secret
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
