@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "I spent years learning about transportation data of all kinds - You can get the benefits, for free! My hope is to empower transportation advocacy in Batlimore's underserved communities."
   location         : "Baltimore City"
-  employer         : Secret
+#  employer         : Secret
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : dan.knopp@gmail.com
