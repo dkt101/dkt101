@@ -4,8 +4,9 @@ title: "Custom Aerial Photography"
 author_profile: true
 ---
 Certified Remote Pilot
-![Drone pic](/images/dronepic.PNG)
 :   Several years in professional flight services for drone/uas/suas/remote aircraft.
+
+(/images/dronepic.PNG)
 
 Some of the projects I work on regularly
 :   Mapping road construction, overlaying spatial data
