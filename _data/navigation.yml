@@ -10,7 +10,7 @@ main:
     url: /teaching/    
     
   - title: "Environmental Data"
-    url: /portfolio/
+    url: /markdown/
         
   - title: "Aerial Imagery Sources"
     url: /year-archive/
@@ -19,4 +19,4 @@ main:
     url: /cv/
     
   - title: "Custom Drone Imagery Services"
-    url: /markdown/
+    url: /portfolio/
