@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Traffic Crash Data"
-    url: /safety/
+    url: /markdown/
 
   - title: "Infrastructure Data"
     url: /talks/    
@@ -10,7 +10,7 @@ main:
     url: /teaching/    
     
   - title: "Environmental Data"
-    url: /markdown/
+    url: /enviro/
         
   - title: "Aerial Imagery Sources"
     url: /year-archive/
