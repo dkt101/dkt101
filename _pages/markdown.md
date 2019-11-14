@@ -17,7 +17,10 @@ Prepped Open Crash Data for Baltimore City
 :   [Guide to make custom crash variables](https://docs.google.com/document/d/1xPGsFjn665qHBwsYTYPGGF_R69Xu6wWwKNkjHnQfjFA/edit?usp=sharing) such as distracted driver, impaired driver, etc.
 
 #### Example of Using Open Portal Crash Data to Find Injuries on a Specific Road Without GIS
-:   At my previous job, I had a client that wanted to find injuries on I-495. I told him in [this email](https://docs.google.com/document/d/1CE2IBrPvPK2txDBRobUe9P1w8ZlypKkZfHvGl95N4mE/edit?usp=sharing) that the GPS coordinates can be input anywhere the officer chooses - and in Baltimore, that is _not always_ at the scene of the crash. a lot of crashes, and then told him a better way. If you are only interested in a specific cooridor, start with this method, then correct the plotted crashes in a GIS tool (such as the free [QGIS](https://www.qgis.org/en/site/index.html))
+:   At my previous job, I had a client that wanted to find injuries on I-495. 
+:   I [explained here](https://docs.google.com/document/d/1CE2IBrPvPK2txDBRobUe9P1w8ZlypKkZfHvGl95N4mE/edit?usp=sharing) that the GPS coordinates can be input anywhere the officer chooses - in Baltimore, that is _not always_ at the scene of the crash. 
+:   A lot of crashes, and then told him a better way. 
+:   If you are only interested in a specific cooridor, start with this method, then correct the plotted crashes in a GIS tool (such as the free [QGIS](https://www.qgis.org/en/site/index.html))
 
 
 Startup
