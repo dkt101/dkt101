@@ -3,12 +3,11 @@ permalink: /safety/
 title: "Traffic Crashes & Safety Data"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /safety/
+  - /safety.html
 ---
-## Definition List
+## Resources for Open Data
 
-Resources for Open Data
 :   These links will provide you with a wealth of (mostly Maryland-specific) data related to safety. 
 
 Prepped Open Crash Data for Baltimore City
