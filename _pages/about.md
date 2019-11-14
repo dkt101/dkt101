@@ -25,7 +25,7 @@ Software
 ======
 You don't need an expensive software license to be "data-driven". Some of these tools are on the advanced side, but I will try to add tools with low barriers to entry over time. Some of these are web-based. 
 1. [NASA Earth Explorer](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. [Google Earth Pro](https://github.com/academicpages/academicpages.github.io) the desktop version allows you to import datasets listed throughout this page and combine them together in Earth. If you just want a quick lookaround, [Google Earth Webclient](https://earth.google.com/web)exists too.  
+1. [Google Earth Pro](https://github.com/academicpages/academicpages.github.io) the desktop version allows you to import datasets listed throughout this page and combine them together in Earth. If you just want a quick lookaround, [Google Earth Web](https://earth.google.com/web) exists too.  
 1. [R](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. [Jupyter Notebooks](https://jupyter.org/) for people who like to use Python in their data analysis, this is an easy way to use it. [Help documentation](https://jupyter.org/documentation)
 1. [Open Drone Map](https://www.opendronemap.org/) If you have a drone, turn it into a mapping machine with this tool. Then you can export the geo-referenced image into a tool like Google Earth Pro and overlay data. 
