@@ -1,12 +1,12 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Open Data for Safety"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
-## Resources for Open Data
+## Resources 
 
 :   These links will provide you with a wealth of (mostly Maryland-specific) data related to safety. 
 
