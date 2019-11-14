@@ -11,8 +11,8 @@ title                    : "Free Transportation Data Sources"
 title_separator          : "-"
 name                     : &name "Daniel Knopp, MPP"
 description              : &description "This site is loaded with resources to plan, pitch, and evaluate your transportation plan"
-url                      : https://dkt101.github.io# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : ""  the subpath of your site, e.g. "/dkt101/"
+url                      : https://dkt101.github.io #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : #""  the subpath of your site, e.g. "/dkt101/"
 repository               : "dkt101/dkt101.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel Knopp, MPP
+  name             : "Daniel Knopp MPP"
   avatar           : "profile.png"
   bio              : "I spent years learning about transportation data of all kinds - You can get the benefits, for free! My hope is to empower transportation advocacy in Batlimore's underserved communities."
   location         : "Location"
