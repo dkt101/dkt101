@@ -6,7 +6,7 @@ author_profile: true
 Certified Remote Pilot
 :   Several years in professional flight services for drone/uas/suas/remote aircraft.
 
-(/images/dronepic.PNG)
+[](/images/dronepic.PNG)
 
 Some of the projects I work on regularly
 :   Mapping road construction, overlaying spatial data
