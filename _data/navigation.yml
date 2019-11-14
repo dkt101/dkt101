@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Traffic Crash Data"
-    url: /publications/
+    url: /markdown/
 
   - title: "Infrastructure Data"
     url: /talks/    
