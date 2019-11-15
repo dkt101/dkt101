@@ -10,7 +10,7 @@ redirect_from:
 
 I spent years learning about transportation data of all kinds - You can get the benefits, for free! 
 
-My hope is to empower transportation advocacy in Batlimore's underserved communities.
+_Mission: Empower transportation advocacy in Batlimore's underserved communities._
 
 How to Use this Site
 ======
