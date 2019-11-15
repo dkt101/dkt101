@@ -3,7 +3,8 @@ permalink: /infra/
 title: "Infrastrcture Data"
 author_profile: true
 ---
-## Resources for the Built Environment. 
+## Resources for the Built Environment.
+#### This information can be used to figure out the type of roadways around you, find information on speeding conditions and congestion, learn about active projects on the roadways near you, and more.
 
 1. [Baltimore City Speed Camera Locations] (https://data.baltimorecity.gov/Transportation/Fixed-Speed-Cameras/aqgr-xx9h)
 1. [Maryland Statewide Traffic Cameras] (http://data.imap.maryland.gov/datasets/maryland-traffic-cameras-traffic-cameras/data)
@@ -12,6 +13,17 @@ author_profile: true
 1. [] ()
 :   
 1. [] ()
+
+1. [Roadway Responsibility] (https://www.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=00ac3c27a119494aa0da9cc179a40643)
+Learn who manages your road maintenance and projects. 
+1. [State Highway Administration] (https://www.arcgis.com/home/item.html?id=e36af19d71cb4787916940cb28f04d05) transportation projects
+1. [Active Traffic Incidents and Eveents (State Highway)] (https://chart.maryland.gov/incidents/index.php)
+1. [Traffic Volume for Roadways] (https://www.arcgis.com/home/item.html?id=3f4b959826c34480be3e4740e4ee025f) goes back to 2011. Not all roadways are here but it is a great amount. Overlay with crash data to get rate of crashes on a road. Contact me for help interpreting the rates or traffic volume figures. 
+1. [] ()
+1. [] ()
+1. [] ()
+1. [] ()
+
 
 https://www.arcgis.com/home/item.html?id=691de498b6954e908cd16dbedbf9d695
 
