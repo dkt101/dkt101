@@ -30,8 +30,6 @@ Resources for Nerds (and non-nerds too!)
 1. [Sentinel Hub](https://github.com/academicpages/academicpages.github.io) Large resource of satellite data including daily imagery and impervious surface indices. Not the best resolution though.
 1. [This book](https://www.spatialanalysisonline.com/HTML/index.html) helped me understand how data can be plotted on a map (otherwise known as GIS) and how it can be used to its fullest potential. For transportation analysis, maps are probably the most powerful tool for pitching, planning, and evaluating. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
 Software
 ======
 You don't need an expensive software license to be "data-driven". Some of these tools are on the advanced side, but I will try to add tools with low barriers to entry over time. Some of these are web-based.
