@@ -1,11 +1,11 @@
 ---
 permalink: /trav/
-title: "Infrastrcture Data"
+title: "Travel and Demographic Trends"
 author_profile: true
 ---
 ## Resources for Open Data
 
-Learn about the built environment. 
+Learn about the people.
 
 Prepped Open Crash Data for Baltimore City
 :   I prepped some of [open crash data](https://drive.google.com/file/d/1cuNCBIzq7yR3J6R_taZti_EPfQNUGXb5/view?usp=sharing) for Baltimore City (2015-2018) and added some variables of interest. 
