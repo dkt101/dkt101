@@ -3,13 +3,19 @@ permalink: /infra/
 title: "Infrastrcture Data"
 author_profile: true
 ---
-## Resources for Open Data
+## Resources for the Built Environment. 
 
-Learn about the built environment. 
+1. [Baltimore City Speed Camera Locations] (https://data.baltimorecity.gov/Transportation/Fixed-Speed-Cameras/aqgr-xx9h)
+1. [Maryland Statewide Traffic Cameras] (http://data.imap.maryland.gov/datasets/maryland-traffic-cameras-traffic-cameras/data)
+1. [MDOT Consolidated Information Pages] (https://maryland.maps.arcgis.com/apps/MapSeries/index.html?appid=b0570a13bee64b3aae14e31e51b473d5)
+:   Contains tons of information (transportation, safety, congestion, freight, demographics, air quality) for every jurisdiction in the state, all together on one page in a dashboard format. 
+1. [] ()
+:   
+1. [] ()
 
-Prepped Open Crash Data for Baltimore City
-:   I prepped some of [open crash data](https://drive.google.com/file/d/1cuNCBIzq7yR3J6R_taZti_EPfQNUGXb5/view?usp=sharing) for Baltimore City (2015-2018) and added some variables of interest. 
-:   There is also a smaller version with variable meanings coded [here](https://drive.google.com/file/d/18pvz3Ax62l-Lq2-L9kg6pyYmmShWmKB_/view?usp=sharing)
+https://www.arcgis.com/home/item.html?id=691de498b6954e908cd16dbedbf9d695
+
+
 :   [Crash Data Dictionary](https://opendata.maryland.gov/download/7xpx-5fte/application%2Fvnd.ms-excel) _beware that the circum_person table is not fully accurate_
 :   [Guide to make custom variables](https://docs.google.com/document/d/1xPGsFjn665qHBwsYTYPGGF_R69Xu6wWwKNkjHnQfjFA/edit?usp=sharing) such as distracted driver, impaired driver, etc.
 
