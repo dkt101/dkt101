@@ -4,10 +4,10 @@ main:
     url: /markdown/
 
   - title: "Infrastructure Data"
-    url: /talks/    
+    url: /infra/    
 
   - title: "Travel and Demographic Data"
-    url: /teaching/    
+    url: /trav/    
     
   - title: "Land/Air Data"
     url: /enviro/
