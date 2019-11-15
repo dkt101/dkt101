@@ -8,14 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I spent years learning about transportation data of all kinds - You can get the benefits, for free! My hope is to empower transportation advocacy in Batlimore's underserved communities.
+I spent years learning about transportation data of all kinds - You can get the benefits, for free! 
+
+My hope is to empower transportation advocacy in Batlimore's underserved communities.
+
+How to use this site
+======
+Gather data sources from the sections, analyze software with the sources below, contact me for [aerial imagery services](https://dkt101.github.io/dkt101/drone/), or [ask me for help with your plan!](https://docs.google.com/forms/d/1HWaJJhJmVGQJ8LzUVhIjHAU0rnPqoPHOa7gtyRwOkM4/edit). Unfortunately these resources are Maryland-focused, but it can still help for other states. 
+1. [Traffic Crash Data](https://dkt101.github.io/dkt101/markdown/) On this page you will find resources on how to take the publically-available crash data in Maryland and turn it into a powerful tool for advocacy. I also provide some tips on preparation of that data. 
+1. [Infrastructure Data](https://dkt101.github.io/dkt101/talks/) Here you will find data on the roads. Things such as speed sensor data, traffic volume totals, pavement condition, roadway maps, and more. 
+1. [Travel and Demographic Data](https://dkt101.github.io/dkt101/teaching/) Great collection of contextual data for applying the other data sources. Information on populations and travel trends by mode.
+1. [Land and Air Data](https://dkt101.github.io/dkt101/enviro/) Here is my collection of resources on satellite imagery, terrain data, anything mainly focused on the earth (compared to man-made things such as roads). 
+
 
 Resources for Nerds (and non-nerds too!)
 ======
 1. [Draw.io](https://draw.io) is an amazing resource for making professional-grade diagrams, whether it be an idea you have for a new bike lane, or a flow-chart for your advocacy. The Google Drive compatability is amazing, everything is in the cloud!
 1. [Vecteezy](https://www.vecteezy.com/) if you need graphics and icons to spruce up your presentation, or for street art. This is an exhaustive collection of those items. Just be sure to filter on "free" when searching. You can even edit the graphic before downloading! The images can be scaled to huge sizes without ever distorting. 
 1. [Baltimore Neighborhood Indicators Alliance](https://bniajfi.org/) Great collection of contextual data for Baltimore City, already aggregated in map form. The team behind it is a great resource as well for help with data and understanding the city.
-1. [B-360](http://www.fusiongroup.org/partners/B$2D360$20STEM$20Program) B-360 changes the perceptions of engineers and dirt bike riders. Their STEM education program applies engineering principles in terms of dirt bikes. Their website is down, but they are doing good work that intersects with my goals here. 
 1. [Non-Motorized Planning Toolkit](https://safety.fhwa.dot.gov/local_rural/training/fhwasa010413/) Good resource from the Feds for properly planning a pedestrian safety effort. The site has tons of resources for the more technical items too, whether it be the width of a crosswalk or calibrating your exposure model.
 1. [Sentinel Hub](https://github.com/academicpages/academicpages.github.io) Large resource of satellite data including daily imagery and impervious surface indices. Not the best resolution though.
 1. [This book](https://www.spatialanalysisonline.com/HTML/index.html) helped me understand how data can be plotted on a map (otherwise known as GIS) and how it can be used to its fullest potential. For transportation analysis, maps are probably the most powerful tool for pitching, planning, and evaluating. 
