@@ -12,7 +12,7 @@ I spent years learning about transportation data of all kinds - You can get the 
 
 My hope is to empower transportation advocacy in Batlimore's underserved communities.
 
-How to use this site
+How to Use this Site
 ======
 Gather data sources from the sections, analyze software with the sources below, contact me for [aerial imagery services](https://dkt101.github.io/dkt101/drone/), or [ask me for help with your plan!](https://docs.google.com/forms/d/1HWaJJhJmVGQJ8LzUVhIjHAU0rnPqoPHOa7gtyRwOkM4/edit). Unfortunately these resources are Maryland-focused, but it can still help for other states. 
 1. [Traffic Crash Data](https://dkt101.github.io/dkt101/markdown/) On this page you will find resources on how to take the publically-available crash data in Maryland and turn it into a powerful tool for advocacy. I also provide some tips on preparation of that data. 
