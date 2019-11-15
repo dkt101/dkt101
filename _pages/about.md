@@ -10,7 +10,7 @@ redirect_from:
 
 I spent years learning about transportation data of all kinds - You can get the benefits, for free! 
 
-_Mission: Empower transportation advocacy in Batlimore's underserved communities._
+_Mission: Many places in Maryland have an active base of transportation advocates and rich sources of data. My mission is to empower transportation advocacy in Maryland's underserved communities by making similar information available to them._
 
 How to Use this Site
 ======
