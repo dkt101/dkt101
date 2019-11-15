@@ -9,13 +9,13 @@ Certified Remote Pilot
 ![](https://raw.githubusercontent.com/dkt101/dkt101/master/images/dronepic.PNG)
 
 Some of the projects I work on regularly
-⋅⋅1. Mapping road construction, overlaying spatial data
-⋅⋅1. Estimating surface area, distances, volume from aerial imagery
-⋅⋅1. Maps of large areas (20 Acres or more) at super high resolution
-⋅⋅1. Professional grade aerial photography
-⋅⋅1. Aerial videography
-⋅⋅1. Large panoramic images (extremely high resolution)
-⋅⋅1. Much more!
+:   Mapping road construction, overlaying spatial data
+:   Estimating surface area, distances, volume from aerial imagery
+:   Maps of large areas (20 Acres or more) at super high resolution
+:   Professional grade aerial photography
+:   Aerial videography
+:   Large panoramic images (extremely high resolution)
+:   Much more!
 
 ![](https://raw.githubusercontent.com/dkt101/dkt101/master/images/earthres.PNG)
 _Drone imagery compared to Google Earth imagery_
