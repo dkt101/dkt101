@@ -16,8 +16,8 @@ How to Use this Site
 ======
 Gather data sources from the sections, analyze software with the sources below, contact me for [aerial imagery services](https://dkt101.github.io/dkt101/drone/), or [ask me for help with your plan!](https://docs.google.com/forms/d/1HWaJJhJmVGQJ8LzUVhIjHAU0rnPqoPHOa7gtyRwOkM4/edit). Unfortunately these resources are Maryland-focused, but it can still help for other states. 
 1. [Traffic Crash Data](https://dkt101.github.io/dkt101/markdown/) On this page you will find resources on how to take the publically-available crash data in Maryland and turn it into a powerful tool for advocacy. I also provide some tips on preparation of that data. 
-1. [Infrastructure Data](https://dkt101.github.io/dkt101/talks/) Here you will find data on the roads. Things such as speed sensor data, traffic volume totals, pavement condition, roadway maps, and more. 
-1. [Travel and Demographic Data](https://dkt101.github.io/dkt101/teaching/) Great collection of contextual data for applying the other data sources. Information on populations and travel trends by mode.
+1. [Infrastructure Data](https://dkt101.github.io/dkt101/infra/) Here you will find data on the roads. Things such as speed sensor data, traffic volume totals, pavement condition, roadway maps, and more. 
+1. [Travel and Demographic Data](https://dkt101.github.io/dkt101/trav/) Great collection of contextual data for applying the other data sources. Information on populations and travel trends by mode.
 1. [Land and Air Data](https://dkt101.github.io/dkt101/enviro/) Here is my collection of resources on satellite imagery, terrain data, anything mainly focused on the earth (compared to man-made things such as roads). 
 
 
