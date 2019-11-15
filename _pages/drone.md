@@ -17,7 +17,7 @@ Some of the projects I work on regularly
 :   Large panoramic images (extremely high resolution)
 :   Much more!
 
-![](https://raw.githubusercontent.com/dkt101/dkt101/master/images/earthres.PNG)
+![](https://raw.githubusercontent.com/dkt101/dkt101/master/images/earthres.jpg)
 _Drone imagery compared to Google Earth imagery_
 Please contact me and let me know what you would like to use a high quality drone camera for. 
 :   Maybe you're not sure but you would like to see if a drone would be the solution you need? Contact me!
