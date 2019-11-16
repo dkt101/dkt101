@@ -19,6 +19,7 @@ Gather data sources from the sections, analyze software with the sources below, 
 1. [Infrastructure Data](https://dkt101.github.io/dkt101/infra/) Here you will find data on the roads. Things such as speed sensor data, traffic volume totals, pavement condition, roadway maps, and more. 
 1. [Travel and Demographic Data](https://dkt101.github.io/dkt101/trav/) Great collection of contextual data for applying the other data sources. Information on populations and travel trends by mode.
 1. [Land and Air Data](https://dkt101.github.io/dkt101/enviro/) Here is my collection of resources on satellite imagery, terrain data, anything mainly focused on the earth (compared to man-made things such as roads). 
+1. I want to shout out the [Maryland GIS Data Portal](https://data.imap.maryland.gov/) because many links on this page will come from their hard work. I have used this source countless times for hundreds of transportation projects. [They also have an API](https://geodata.md.gov/imap/rest/services) so you can ingest the data programmatically. 
 
 
 Resources for Nerds (and non-nerds too!)
@@ -42,13 +43,7 @@ You don't need an expensive software license to be "data-driven". Some of these 
 1. [Open Drone Map](https://www.opendronemap.org/) If you have a drone, turn it into a mapping machine with this tool. Then you can export the geo-referenced image into a tool like Google Earth Pro and overlay data. 
 1. [Tracking busses with Open Data](https://github.com/cylussec/bustracking) from T101 alum Brian Seele
 1. [Case Harvester](https://github.com/dismantl/CaseHarvester) Amazing effort by Open Justice Baltimore that lets you build a database of court cases. Identify trends in traffic enforcement. Tons of great research ideas if you can get this tool running. They also have a [request form](https://openjusticebaltimore.org/#contact) where you can request to access their data.   
-1. [](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. [](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
-1. [](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. [](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
-1. [](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. [](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. [](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
+
 
 How can I help you?
 ======
