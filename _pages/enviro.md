@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## Good Sources of Satellite, Terrain, LIDAR, etc. 
 
-:   One of my favorte things to when making maps is to utilize the wealth of open data that comes from satellites. We are very fortunate in Maryland because the team at [iMAP Maryland](https://imap.maryland.gov/Pages/default.aspx) provides so much of this for free.
+:   One of my favorte things to when making maps is to utilize the wealth of open data that comes from satellites. The team at [iMAP Maryland](https://imap.maryland.gov/Pages/default.aspx) provides so much of this for free.
 
 :   I use these layers for some technical things and some routine items. I may check how a construction project is progressing back in my hometown with [Sentinel Hub](https://www.sentinel-hub.com/explore/eobrowser)'s daily planet imagery. I may take 
 
