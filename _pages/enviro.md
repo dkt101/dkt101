@@ -11,7 +11,7 @@ I use these layers for some technical things and some routine items. I may check
 
 Sources of Quality Data from Space
 ![](https://github.com/dkt101/dkt101/blob/master/images/threeinharbor.png)
-### [Maryland iMAP's [imagery layers](https://geodata.md.gov/imap/rest/services/Imagery) 
+### [Maryland iMAP imagery layers](https://geodata.md.gov/imap/rest/services/Imagery) 
 There are a few options - three inch (not available for all areas but super high resolution), six-inch (great resolution, statewide coverage), and NAIP (historical, pretty good resolution). All these are a great source of high resolution imagery you can use in any way you see fit. For analysis, I prefer the NAIP imagery layers as they usually are taken in Winter (no trees) and have been taken for over a decade (good for measuring change). I also prefer to deal with the "feature layers" instead of the imagery layers. But if you need help deciding how to deal with this stuff, as always [contact me](mailto:dan.knopp@gmail.com).
 If you do not feel comfortable downloading the imagery - just click [ArcGIS Online Map Viewer] and then on the map that pops up, click the pushpin, scroll to the bottom of the box that pops up, and click the [map](https://geodata.md.gov/imap/rest/services/Imagery/MD_SixInchImagery/MapServer?f=jsapi) in the box at the bottom. 
 ### [Maryland iMAP's LIDAR Data](https://imap.maryland.gov/Pages/lidar.aspx is filled with free data on topography, LIDAR for the whole state, and digital elevation models (DEMs)
