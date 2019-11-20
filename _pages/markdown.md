@@ -27,10 +27,4 @@ Example of Using Open Portal Crash Data to Find Injuries on a Specific Road With
 
 Other links
 :   [NHTSA State Traffic Information System](https://cdan.nhtsa.gov/stsi.htm) Many figures at the state and jurisdiction level. These are built off the data not publically available, so the counts will be higher than open portal. Includes only fatalities, but is broken down by category (impaired, speeding, distracted, pedestrian, etc.) and by county/city.
-:   [NHTSA State Traffic Information System](https://cdan.nhtsa.gov/stsi.htm) Many figures at the state and jurisdiction level. These 
-:   [NHTSA State Traffic Information System](https://cdan.nhtsa.gov/stsi.htm) Many figures at the state and jurisdiction level. These 
-:   [NHTSA State Traffic Information System](https://cdan.nhtsa.gov/stsi.htm) Many figures at the state and jurisdiction level. These 
-:   [NHTSA State Traffic Information System](https://cdan.nhtsa.gov/stsi.htm) Many figures at the state and jurisdiction level. These 
-:   [NHTSA State Traffic Information System](https://cdan.nhtsa.gov/stsi.htm) Many figures at the state and jurisdiction level. These 
-:   [NHTSA State Traffic Information System](https://cdan.nhtsa.gov/stsi.htm) Many figures at the state and jurisdiction level. These 
-:   [NHTSA State Traffic Information System](https://cdan.nhtsa.gov/stsi.htm) Many figures at the state and jurisdiction level. These 
+:   [Maryland Highway Safety Office Benchmarks](http://www.mva.maryland.gov/safety/mhso/benchmark-reports.htm) Learn for each jurisdiction in Maryland the number of crashes, injuries, and fatalities as the result of motor vehicle crashes of all kinds.
