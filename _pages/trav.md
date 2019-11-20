@@ -10,29 +10,29 @@ Learn about the people. These are the "denominators" to any numbers you produce.
 If 10 crashes happen every 20 cars, that is a lot more than 10 crashes every 200 cars! This is the power of this page. 
 
 Travel data
-#### [National Household Travel Survey]()
+### [National Household Travel Survey]()
 This is one of the best options we have for estimating multimodal traffic. The disadvantage is that it only goes down to urban and rural parts of the state. So it is not at the city level. Ingest multiple years of the survey and conduct more powerful data manipulation with the [Weststat R NHTS]() package. One of my favorite variables is TRAVDAY - which shows the mode of travel. Please read the [help documentation]() to better unstand the variables and how they are used.
 
-#### [State of Maryland Traffic Volume Layers]()
+### [State of Maryland Traffic Volume Layers]()
 
-#### [Census ZCTA layers for Maryland]() This is a bunch of census variables at the zip-code level that you can use as ready made denominators.
+### [Census ZCTA layers for Maryland]() This is a bunch of census variables at the zip-code level that you can use as ready made denominators.
 With any population data, be careful. There are some intricate details to analyzing these properly. But you will be good just making crude rates (number of incidents divided by population) for now. Ask me for help as always. 
-#### [Census Block layers for Maryland]()
+### [Census Block layers for Maryland]()
 
-#### [Baltimore Neigborhood Indicators Alliance]()
+### [Baltimore Neigborhood Indicators Alliance]()
 
-#### []()
+### []()
 
-#### []()
-
-
-#### []()
+### []()
 
 
-#### []()
+### []()
 
 
-#### []()
+### []()
+
+
+### []()
 
 
 []()
