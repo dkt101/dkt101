@@ -22,6 +22,9 @@ Example of Using Open Portal Crash Data to Find Injuries on a Specific Road With
 :   I [explain here](https://docs.google.com/document/d/1CE2IBrPvPK2txDBRobUe9P1w8ZlypKkZfHvGl95N4mE/edit?usp=sharing) that the GPS coordinates can be input anywhere the officer chooses - in Baltimore, that is _not always_ at the scene of the crash. 
 :   If you are only interested in a specific cooridor, start with this method, then correct the plotted crashes in a GIS tool (such as the free [QGIS](https://www.qgis.org/en/site/index.html))
 
+[Guide I made about linking open portal crash data to roadway data](https://docs.google.com/document/d/1STHvhHh65PwbGeCNNunYOYO58hIwqjxNPzAXXWqgJEc/edit?usp=sharing)
+:   The advantage of this method is that in older years of Open Portal Crash data, the XY cooridnates are not the only way to plot crashes. You can use GIS software to better plot the crashes based on other fields in the crash data and in the (publically available roadway data)(https://data.imap.maryland.gov/datasets/7d88159091854e55a3e6f237fcd45c1a_0). 
+
 [Roadway Safety Analysis Page](https://safety.fhwa.dot.gov/local_rural/training/fhwasa1210/s3.cfm)
 :   Lots of good information here. Learn how to make crash rates for a road segment, and other fundamentals of crash trend analysis. 
 
