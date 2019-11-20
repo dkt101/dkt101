@@ -84,7 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Your librarian for transportation data"
   location         : "Baltimore City"
-#  employer         : Secret
+#  Donation Button  
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JNTCNMTCW7PZY)
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : dan.knopp@gmail.com
