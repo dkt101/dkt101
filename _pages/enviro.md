@@ -7,10 +7,11 @@ author_profile: true
 
 One of my favorte things to when making maps is to utilize the wealth of open data that comes from satellites. The team at [iMAP Maryland](https://imap.maryland.gov/Pages/default.aspx) provides so much of this for free.
 
-I use these layers for some technical things and some routine items. I may check how a construction project is progressing back in my hometown with [Sentinel Hub](https://www.sentinel-hub.com/explore/eobrowser)'s daily planet imagery. I may take 
+I use these layers for some technical things and some routine items. I may check how a construction project is progressing back in my hometown with [Sentinel Hub](https://www.sentinel-hub.com/explore/eobrowser)'s daily planet imagery.
 
-Sources of Quality Data from Space
+
 ![](https://github.com/dkt101/dkt101/blob/master/images/threeinharbor.png)
+
 ### [Maryland iMAP imagery layers](https://geodata.md.gov/imap/rest/services/Imagery) 
 There are a few options - three inch (not available for all areas but super high resolution), six-inch (great resolution, statewide coverage), and NAIP (historical, pretty good resolution). All these are a great source of high resolution imagery you can use in any way you see fit. For analysis, I prefer the NAIP imagery layers as they usually are taken in Winter (no trees) and have been taken for over a decade (good for measuring change). I also prefer to deal with the "feature layers" instead of the imagery layers. But if you need help deciding how to deal with this stuff, as always [contact me](mailto:dan.knopp@gmail.com).
 If you do not feel comfortable downloading the imagery - just click [ArcGIS Online Map Viewer] and then on the map that pops up, click the pushpin, scroll to the bottom of the box that pops up, and click the [map](https://geodata.md.gov/imap/rest/services/Imagery/MD_SixInchImagery/MapServer?f=jsapi) in the box at the bottom. 
