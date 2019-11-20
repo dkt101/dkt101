@@ -10,71 +10,23 @@ Learn about the people. These are the "denominators" to any numbers you produce.
 If 10 crashes happen every 20 cars, that is a lot more than 10 crashes every 200 cars! This is the power of this page. 
 
 Travel data
-### [National Household Travel Survey]()
-This is one of the best options we have for estimating multimodal traffic. The disadvantage is that it only goes down to urban and rural parts of the state. So it is not at the city level. Ingest multiple years of the survey and conduct more powerful data manipulation with the [Weststat R NHTS]() package. One of my favorite variables is TRAVDAY - which shows the mode of travel. Please read the [help documentation]() to better unstand the variables and how they are used.
+### [National Household Travel Survey (NHTS)](https://nhts.ornl.gov/)
+This is one of the best options we have for estimating multimodal traffic. Most of the best options are paid and/or private. The disadvantage of the NHTS is that it only goes down to urban and rural parts of the state. So the trip counts are not at the city-street level. You would need to make sure your data matches that - so I would need "X" type of crashes for all urban areas in Maryland as an appropriate numerator. Ingest multiple years of the survey and conduct more powerful data manipulation with the [Weststat R NHTS](https://github.com/Westat-Transportation/summarizeNHTS) package. One of my favorite variables is TRAVDAY - which shows the mode of travel. Please read the [variable documentation](https://nhts.ornl.gov/assets/codebook.pdf) to better unstand the variables and how they are used. [More help documentation for the NHTS here](https://nhts.ornl.gov/documentation.shtml).
 
-### [State of Maryland Traffic Volume Layers]()
+### [State of Maryland Traffic Volume Layers](https://www.arcgis.com/home/item.html?id=3f4b959826c34480be3e4740e4ee025f)
+Traffic volume for state roads and many local roads. [Extensive documentation](https://www.roads.maryland.gov/oppen/DSED%20Traffic%20Monitoring%20System%20Program.pdf) on how traffic volumes are calculated at this link. 
 
-### [Census ZCTA layers for Maryland]() This is a bunch of census variables at the zip-code level that you can use as ready made denominators.
+### [Census ZCTA layers for Maryland](https://data.imap.maryland.gov/datasets/eb706b48117b43d482c63d02017fc3ff_1) 
+This is a bunch of census variables at the zip-code level that you can use as ready made denominators.
 With any population data, be careful. There are some intricate details to analyzing these properly. But you will be good just making crude rates (number of incidents divided by population) for now. Ask me for help as always. 
-### [Census Block layers for Maryland]()
+### [Census Block layers for Maryland](https://geodata.md.gov/imap/rest/services/Demographics/MD_CensusBoundaries/MapServer)
+Tons of information about from the census, grouped at the census-block level. 
 
-### [Baltimore Neigborhood Indicators Alliance]()
+### [Baltimore Neigborhood Indicators Alliance](https://data-bniajfi.opendata.arcgis.com/)
+Data resources from the super analysts at BNIA. GIS-based. Arts and culture, health, safety, demographics, all focused on Baltimore City. 
 
-### []()
+### [Esri Tapestry Map](https://www.esri.com/en-us/arcgis/products/tapestry-segmentation/zip-lookup)
+Get a lot of demographic/market-characteristic data points for your zip code, includes a narrative as well. Great example of taking quanitative data and making it qualitative. 
 
-### []()
-
-
-### []()
-
-
-### []()
-
-
-### []()
-
-
-[]()
-
-[]()
-
-[]()
-
-
-
-
-
-
-
-
-
-
-:   []()
-:   []()
-:   []()
-:   []()
-:   []()
-:   []()
-:   []()
-:   []()
-:   []()
-:   []()
-:   []()
-:   []()
-:   []()
-:   There is also a smaller version with variable meanings coded [here](https://drive.google.com/file/d/18pvz3Ax62l-Lq2-L9kg6pyYmmShWmKB_/view?usp=sharing)
-:   [Crash Data Dictionary](https://opendata.maryland.gov/download/7xpx-5fte/application%2Fvnd.ms-excel) _beware that the circum_person table is not fully accurate_
-:   [Guide to make custom variables](https://docs.google.com/document/d/1xPGsFjn665qHBwsYTYPGGF_R69Xu6wWwKNkjHnQfjFA/edit?usp=sharing) such as distracted driver, impaired driver, etc.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-
-### Variable Tag
+### [Maryland Vital Statistics](https://geodata.md.gov/imap/rest/services/Health/MD_VitalStatistics/FeatureServer)
+Listing of mortality rates.
