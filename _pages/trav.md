@@ -18,6 +18,8 @@ Ingest multiple years of the survey and conduct more powerful data manipulation 
 [More help documentation for the NHTS here](https://nhts.ornl.gov/documentation.shtml). A [compendum](https://nhts.ornl.gov/compendium) of uses shows examples of how this powerful data can be utilized. There is also a web-based analysis tool [here](https://nhts.ornl.gov/tools.shtml).
 
 ![](https://raw.githubusercontent.com/dkt101/dkt101/master/images/nhtssample.PNG)
+
+
 _Maryland Annual Person Trips by Mode for Urban and Rural Areas_
 
 ### [State of Maryland Traffic Volume Layers](https://www.arcgis.com/home/item.html?id=3f4b959826c34480be3e4740e4ee025f)
