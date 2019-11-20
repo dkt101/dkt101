@@ -39,3 +39,6 @@ Get a lot of demographic/market-characteristic data points for your zip code, in
 
 ### [Maryland Vital Statistics](https://geodata.md.gov/imap/rest/services/Health/MD_VitalStatistics/FeatureServer)
 Listing of mortality rates.
+
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JNTCNMTCW7PZY)
