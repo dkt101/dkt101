@@ -13,7 +13,7 @@ Travel data
 [National Household Travel Survey]()
 This is one of the best options we have for estimating multimodal traffic. The disadvantage is that it only goes down to urban and rural parts of the state. So it is not at the city level. Ingest multiple years of the survey and conduct more powerful data manipulation with the [Weststat R NHTS]() package. One of my favorite variables is TRAVDAY - which shows the mode of travel. Please read the [help documentation]() to better unstand the variables and how they are used.
 
-[State of Maryland Traffiv Volume Layers]()
+[State of Maryland Traffic Volume Layers]()
 
 [Census ZCTA layers for Maryland]() This is a bunch of census variables at the zip-code level that you can use as ready made denominators.
 With any population data, be careful. There are some intricate details to analyzing these properly. But you will be good just making crude rates (number of incidents divided by population) for now. Ask me for help as always. 
