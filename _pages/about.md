@@ -11,6 +11,8 @@ redirect_from:
 I spent years learning about transportation data of all kinds - You can get the benefits, for free! 
 
 _Mission: Many places in Maryland have an active base of transportation advocates and rich sources of data. My mission is to empower transportation advocacy in Maryland's underserved communities by making similar information available to them._
+ 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JNTCNMTCW7PZY)
 
 How to Use this Site
 ======
