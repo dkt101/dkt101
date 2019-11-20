@@ -13,13 +13,13 @@ This has everything on an easy to use webmap, tax parcels (find out who owns tha
 Live feeds of the traffic cameras around the state.
 ### [MDOT CHART RSS Feeds](https://chart.maryland.gov/rss/rssfeeds.asp)
 Get live speed data, traffic incidents, road closures, route restrictions, and more all in one place. 
-### [MDOT Consolidated Information Pages] (https://maryland.maps.arcgis.com/apps/MapSeries/index.html?appid=b0570a13bee64b3aae14e31e51b473d5)
+### [MDOT Consolidated Information Pages](https://maryland.maps.arcgis.com/apps/MapSeries/index.html?appid=b0570a13bee64b3aae14e31e51b473d5)
 Contains tons of information (transportation, safety, congestion, freight, demographics, air quality) for every jurisdiction in the state, all together on one page in a dashboard format. Good item to load up on a tablet and take to meetings for background information.
 ### []()
 
 ### [Roadway Responsibility](https://www.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=00ac3c27a119494aa0da9cc179a40643)
 Learn who manages your road maintenance and projects. 
-### [State Highway Administration Active Projects] (https://www.arcgis.com/home/item.html?id=e36af19d71cb4787916940cb28f04d05) 
+### [State Highway Administration Active Projects](https://www.arcgis.com/home/item.html?id=e36af19d71cb4787916940cb28f04d05) 
 Active state transportation projects. 
 ### [Active Traffic Incidents and Events (State Highway)](https://chart.maryland.gov/incidents/index.php)
 ### [Traffic Volume for Roadways](https://www.arcgis.com/home/item.html?id=3f4b959826c34480be3e4740e4ee025f) 
