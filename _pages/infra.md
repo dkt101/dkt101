@@ -9,7 +9,7 @@ author_profile: true
 ### [MERLIN](https://gisapps.dnr.state.md.us/MERLIN/index.html)
  GREAT RESOURCE! This has everything on an easy to use webmap, tax parcels (find out who owns that vacant lot), road names, education facilities, physical boundaries, shorelines, wetlands, historical satellite imagery, and more. 
  ### [Maryland Comprehensive Road Centerlines](https://data.imap.maryland.gov/datasets/7d88159091854e55a3e6f237fcd45c1a_0)
-GID layer of roadways in the state. Also, see my [guide]() here for information about how to take the open portal crash data ([on my traffic crash data](https://dkt101.github.io/dkt101/markdown/) page) and [generate an ID to link the crashes to the roadway](https://docs.google.com/document/d/1STHvhHh65PwbGeCNNunYOYO58hIwqjxNPzAXXWqgJEc/edit?usp=sharing).
+GIS layer of roadways in the state. Also, see my [guide]https://docs.google.com/document/d/1STHvhHh65PwbGeCNNunYOYO58hIwqjxNPzAXXWqgJEc/edit?usp=sharing() for information about how to take the open portal crash data ([on my traffic crash data](https://dkt101.github.io/dkt101/markdown/) page) and [generate an ID to link the crashes to the roadway](https://docs.google.com/document/d/1STHvhHh65PwbGeCNNunYOYO58hIwqjxNPzAXXWqgJEc/edit?usp=sharing).
 ### [Baltimore City Speed Camera Locations](https://data.baltimorecity.gov/Transportation/Fixed-Speed-Cameras/aqgr-xx9h)
 ### [Maryland Statewide Traffic Cameras](http://data.imap.maryland.gov/datasets/maryland-traffic-cameras-traffic-cameras/data)
 Live feeds of the traffic cameras around the state.
