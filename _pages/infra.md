@@ -6,8 +6,8 @@ author_profile: true
 ## Resources for the Built Environment.
 #### This information can be used to figure out the type of roadways around you, find information on speeding conditions and congestion, learn about active projects on the roadways near you, and more.
 
-### [MERLIN](https://gisapps.dnr.state.md.us/MERLIN/index.html) GREAT RESOURCE!
-This has everything on an easy to use webmap, tax parcels (find out who owns that vacant lot), road names, education facilities, physical boundaries, shorelines, wetlands, historical satellite imagery, and more. 
+### [MERLIN](https://gisapps.dnr.state.md.us/MERLIN/index.html)
+ GREAT RESOURCE!This has everything on an easy to use webmap, tax parcels (find out who owns that vacant lot), road names, education facilities, physical boundaries, shorelines, wetlands, historical satellite imagery, and more. 
 ### [Baltimore City Speed Camera Locations](https://data.baltimorecity.gov/Transportation/Fixed-Speed-Cameras/aqgr-xx9h)
 ### [Maryland Statewide Traffic Cameras](http://data.imap.maryland.gov/datasets/maryland-traffic-cameras-traffic-cameras/data)
 Live feeds of the traffic cameras around the state.
@@ -15,8 +15,6 @@ Live feeds of the traffic cameras around the state.
 Get live speed data, traffic incidents, road closures, route restrictions, and more all in one place. 
 ### [MDOT Consolidated Information Pages](https://maryland.maps.arcgis.com/apps/MapSeries/index.html?appid=b0570a13bee64b3aae14e31e51b473d5)
 Contains tons of information (transportation, safety, congestion, freight, demographics, air quality) for every jurisdiction in the state, all together on one page in a dashboard format. Good item to load up on a tablet and take to meetings for background information.
-### []()
-
 ### [Roadway Responsibility](https://www.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=00ac3c27a119494aa0da9cc179a40643)
 Learn who manages your road maintenance and projects. 
 ### [State Highway Administration Active Projects](https://www.arcgis.com/home/item.html?id=e36af19d71cb4787916940cb28f04d05) 
@@ -29,7 +27,7 @@ Obtain the nitty gritty details behind all the projects approved by SHA in the s
 ### [Maryland Planning Cadastre](https://geodata.md.gov/imap/rest/services/PlanningCadastre/MD_HighResolutionLandCover/MapServer)
 This is the Maryland land cover classification raster dataset. it was developed by the Chesapeake Conservancy as part of the Chesapeake Bay Program Partnership's High-Resolution Land Cover Classification project. Classifies the type of land cover throughout the state. 
 ### [Speed Limits](https://data.imap.maryland.gov/datasets/maryland-roadway-posted-speed-limits-roadway-posted-speed-limit-signs/data)
-Speed limits on many maryland roads.
+Speed limits on many Maryland roads.
 ### [OpenStreetMap](https://www.openstreetmap.org/)
 Detailed information on not just roads, but sidewalks and more. Edited by the community ala Wikipedia. 
 ### [Maryland Land Use/Land Cover](http://data.imap.maryland.gov/datasets/maryland-land-use-land-cover-land-use-land-cover-2010 )
