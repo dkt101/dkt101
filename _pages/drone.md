@@ -27,6 +27,5 @@ Limited free services to Transportation 101 Alumni
 
 [contact](mailto:dan.knopp@gmail.com)
 
-_This website will always be free, as it is a labor of my heart. However, if you wish to donate a little bit for my efforts, click the button below_
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JNTCNMTCW7PZY)
