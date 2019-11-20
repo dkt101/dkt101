@@ -16,6 +16,7 @@ The disadvantage of the NHTS is that it only goes down to urban and rural parts 
 You would need to make sure your data matches the numbers you pull from NHTS. For example, one would need the total crashes for all urban areas in Maryland as an appropriate numerator, or all crashes in Maryland. 
 Ingest multiple years of the survey and conduct more powerful data manipulation with the [Weststat R NHTS](https://github.com/Westat-Transportation/summarizeNHTS) package. One of my favorite variables is TRPTRANS - which shows the mode of travel. Please read the [variable documentation](https://nhts.ornl.gov/assets/codebook.pdf) to better unstand the variables and how they are used. 
 [More help documentation for the NHTS here](https://nhts.ornl.gov/documentation.shtml). A [compendum](https://nhts.ornl.gov/compendium) of uses shows examples of how this powerful data can be utilized. There is also a web-based analysis tool [here](https://nhts.ornl.gov/tools.shtml).
+![](https://raw.githubusercontent.com/dkt101/dkt101/master/images/nhtssample.PNG)
 
 ### [State of Maryland Traffic Volume Layers](https://www.arcgis.com/home/item.html?id=3f4b959826c34480be3e4740e4ee025f)
 Traffic volume for state roads and many local roads. [Extensive documentation](https://www.roads.maryland.gov/oppen/DSED%20Traffic%20Monitoring%20System%20Program.pdf) on how traffic volumes are calculated at this link. 
