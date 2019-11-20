@@ -14,7 +14,7 @@ Travel data
 This is one of the best options we have for estimating multimodal traffic. Most of the best options are paid and/or private. 
 The disadvantage of the NHTS is that it only goes down to urban and rural parts of the state, meaning that the trip counts are not at a city-street level. 
 You would need to make sure your data matches the numbers you pull from NHTS. For example, one would need the total crashes for all urban areas in Maryland as an appropriate numerator, or all crashes in Maryland. 
-Ingest multiple years of the survey and conduct more powerful data manipulation with the [Weststat R NHTS](https://github.com/Westat-Transportation/summarizeNHTS) package. One of my favorite variables is TRAVDAY - which shows the mode of travel. Please read the [variable documentation](https://nhts.ornl.gov/assets/codebook.pdf) to better unstand the variables and how they are used. 
+Ingest multiple years of the survey and conduct more powerful data manipulation with the [Weststat R NHTS](https://github.com/Westat-Transportation/summarizeNHTS) package. One of my favorite variables is TRPTRANS - which shows the mode of travel. Please read the [variable documentation](https://nhts.ornl.gov/assets/codebook.pdf) to better unstand the variables and how they are used. 
 [More help documentation for the NHTS here](https://nhts.ornl.gov/documentation.shtml). A [compendum](https://nhts.ornl.gov/compendium) of uses shows examples of how this powerful data can be utilized. There is also a web-based analysis tool [here](https://nhts.ornl.gov/tools.shtml).
 
 ### [State of Maryland Traffic Volume Layers](https://www.arcgis.com/home/item.html?id=3f4b959826c34480be3e4740e4ee025f)
