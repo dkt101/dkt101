@@ -9,7 +9,6 @@ One of my favorte things to when making maps is to utilize the wealth of open da
 
 I use these layers for some technical things and some routine items. I may check how a construction project is progressing back in my hometown with [Sentinel Hub](https://www.sentinel-hub.com/explore/eobrowser)'s daily planet imagery.
 
-
 ![](https://github.com/dkt101/dkt101/blob/master/images/threeinharbor.png)
 
 ### [Maryland iMAP imagery layers](https://geodata.md.gov/imap/rest/services/Imagery) 
