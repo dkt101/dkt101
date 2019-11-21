@@ -7,7 +7,7 @@ author_profile: true
 #### This information can be used to figure out the type of roadways around you, find information on speeding conditions and congestion, learn about active projects on the roadways near you, and more.
 
 ### [MERLIN](https://gisapps.dnr.state.md.us/MERLIN/index.html)
- GREAT RESOURCE! This has everything on an easy to use webmap, tax parcels (find out who owns that vacant lot), road names, education facilities, physical boundaries, shorelines, wetlands, historical satellite imagery, and more. 
+Great resource for looking at spatial data without installing software or messing with datasets. On an easy to use webmap, overlay tax parcels (find out who owns that vacant lot), road names, education facilities, physical boundaries, shorelines, wetlands, historical satellite imagery, and more. 
 ### [Maryland Comprehensive Road Centerlines](https://data.imap.maryland.gov/datasets/7d88159091854e55a3e6f237fcd45c1a_0)
 GIS layer of roadways in the state. Also, see my [guide](https://docs.google.com/document/d/1STHvhHh65PwbGeCNNunYOYO58hIwqjxNPzAXXWqgJEc/edit?usp=sharing) for information about how to take the open portal crash data ([on my traffic crash data](https://dkt101.github.io/dkt101/markdown/) page) and [generate an ID to link the crashes to the roadway](https://docs.google.com/document/d/1STHvhHh65PwbGeCNNunYOYO58hIwqjxNPzAXXWqgJEc/edit?usp=sharing).
 ### [Baltimore City Speed Camera Locations](https://data.baltimorecity.gov/Transportation/Fixed-Speed-Cameras/aqgr-xx9h)
