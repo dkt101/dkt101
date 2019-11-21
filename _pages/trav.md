@@ -11,8 +11,8 @@ If 10 crashes happen every 20 cars, that is a lot more than 10 crashes every 200
 
 Travel data
 ### [National Household Travel Survey (NHTS)](https://nhts.ornl.gov/)
-This is one of the best options we have for estimating multimodal traffic. Most of the best options are paid and/or private. 
-The disadvantage of the NHTS is that it only goes down to urban and rural parts of the state, meaning that the trip counts are not at a city-street level. 
+This is one of the best (free) options we have for estimating multimodal traffic. Most of the best options are paid and/or private. 
+The disadvantage of the NHTS is that it only goes down to urban and rural parts of the state, meaning that the trip counts are not at a city-street level. If you are good with modelling, you can turn this data into street-level.
 You would need to make sure your data matches the numbers you pull from NHTS. For example, one would need the total crashes for all urban areas in Maryland as an appropriate numerator, or all crashes in Maryland. 
 Ingest multiple years of the survey and conduct more powerful data manipulation with the [Weststat R NHTS](https://github.com/Westat-Transportation/summarizeNHTS) package. One of my favorite variables is TRPTRANS - which shows the mode of travel. Please read the [variable documentation](https://nhts.ornl.gov/assets/codebook.pdf) to better unstand the variables and how they are used. 
 [More help documentation for the NHTS here](https://nhts.ornl.gov/documentation.shtml). A [compendum](https://nhts.ornl.gov/compendium) of uses shows examples of how this powerful data can be utilized. There is also a web-based analysis tool [here](https://nhts.ornl.gov/tools.shtml).
@@ -21,6 +21,9 @@ Ingest multiple years of the survey and conduct more powerful data manipulation 
 
 
 _Maryland Annual Person Trips by Mode for Urban and Rural Areas_
+
+### [Guide I made about making rough estimates of census demographics for non-standard areas](https://docs.google.com/document/d/1kewfYNpu4Phy5iP5wWS39QggiLr670HWjyCBm4FltW0/edit?usp=sharing)
+Use this guide to make a rough estimate of a small area (the example I use is a zone around MICA) demographics. The main assumption is that the distribution of a population in a census block is even  (which it is not, there may be 60% of a census block's population in one small corner of the area). But it is a good start to get oriented to modelling. 
 
 ### [State of Maryland Traffic Volume Layers](https://www.arcgis.com/home/item.html?id=3f4b959826c34480be3e4740e4ee025f)
 Traffic volume for state roads and many local roads. [Extensive documentation](https://www.roads.maryland.gov/oppen/DSED%20Traffic%20Monitoring%20System%20Program.pdf) on how traffic volumes are calculated at this link. 
