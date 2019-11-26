@@ -26,5 +26,3 @@ Another site with the ability to freely process drone imagery. Unlimited storage
 ### [Sentinel Hub](https://www.sentinel-hub.com/explore/eobrowser) 
 This is a good resrouce for daily satellite imagery. The nicest part is that with their tool you can view the date range of your choice and use playback controls.  
 
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JNTCNMTCW7PZY)
