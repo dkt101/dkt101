@@ -16,9 +16,9 @@ Prepped Open Crash Data for Baltimore City
 :   There is also a smaller version with variable meanings coded [here](https://drive.google.com/file/d/18pvz3Ax62l-Lq2-L9kg6pyYmmShWmKB_/view?usp=sharing)
 :   [Crash Data Dictionary](https://opendata.maryland.gov/download/7xpx-5fte/application%2Fvnd.ms-excel) _beware that the circum_person table is not fully accurate_
 :   [Guide to make custom crash variables](https://docs.google.com/document/d/1xPGsFjn665qHBwsYTYPGGF_R69Xu6wWwKNkjHnQfjFA/edit?usp=sharing) such as distracted driver, impaired driver, etc. _variable guide currently down, stay turned_
-#### Note: One Row in the Open Crash Data = One PERSON (person_id) involved in a crash (denoted by report_no). 
+#### _Note_: One Row in the Open Crash Data = One PERSON (person_id) involved in a crash (denoted by report_no). 
 #### A vehicle_id can have multiple person_id, but will be blank for a pedestrian. 
-### I created the variable crash_level to denote the highest injured person per report_no (in the crash). Use this if you need to count the number of crashes occuring somewhere. 
+#### I created the variable crash_level to denote the highest injured person per report_no (in the crash). Use this if you need to count the number of crashes occuring somewhere. 
 
 Example of Using Open Portal Crash Data to Find Injuries on a Specific Road Without GIS, how to Merge Open Crash Data
 :   At my previous job, I had a client that wanted to find injuries on I-495. 
