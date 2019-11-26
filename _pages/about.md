@@ -48,7 +48,3 @@ How can I help you?
 ======
 Click the menu icon on the upper-right of the page. You will find a form where you can ask me for help directly, or request drone services. 
 
-
-_This website will always be free, as it is a labor of my heart. However, if you wish to donate a little bit for my efforts, click the button below:_
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JNTCNMTCW7PZY)
