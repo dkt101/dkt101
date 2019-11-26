@@ -34,5 +34,3 @@ Speed limits on many Maryland roads.
 Detailed information on not just roads, but sidewalks and more. Edited by the community ala Wikipedia. 
 ### [Maryland Land Use/Land Cover](http://data.imap.maryland.gov/datasets/maryland-land-use-land-cover-land-use-land-cover-2010 )
 More data on landcover in Maryland.
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JNTCNMTCW7PZY)
