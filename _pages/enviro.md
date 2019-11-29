@@ -17,7 +17,7 @@ If you do not feel comfortable downloading the imagery - just click [ArcGIS Onli
 ### [Maryland iMAP's LIDAR Data](https://imap.maryland.gov/Pages/lidar.aspx) 
 is filled with free data on topography, LIDAR for the whole state, and digital elevation models (DEMs)
 Think of this data source as your own free "Google Terrain" layer on Maps, but much more detailed. I used this data to advocate for changes in my neighborhood, where I felt drivers could not see pedestrians due to a hill. I also use the DEM layer to "calibrate" satellite imagery so that I can measure changes in impervious surface over time.  [You can also view it online without downloading](https://geodata.md.gov/topoviewer)
-### [NASA EarthData](https://earthdata.nasa.gov/earth-observation-data). 
+### [NASA EarthData](https://earthdata.nasa.gov/earth-observation-data)
 You need to make a free login, but this site has tons of imagery like Maryland iMap, but even more (things like vegitation indexes - where vegetaion is at). Also worldwide. Lower res than Maryland's iMap. 
 ### [OpenAerialMap](https://openaerialmap.org/) 
 Has a bunch of random drone maps produced by people, including in Baltimore. 
