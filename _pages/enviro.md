@@ -13,7 +13,8 @@ I use these layers for some technical things and some routine items. I may check
 
 ### [Direct link to all datasets available on Maryland iMAP](https://geodata.md.gov/imap/rest/services)
 I usually use this link instead of the website, as it is easier to access each dataset and directly import into ArcGIS as a server connection. Some datasets included are topographic data, hydrology, land cover,  business/economy, demographics, etc. Nearly anything you need for Maryland (especially for GIS analysts) is at the link.
-
+### [NaturalEarth GIS Layers](https://www.naturalearthdata.com/downloads/)
+NaturalEarth is a great resource for layers on things like country boundaries, ports, urban areas, and physical boundaries. The quality of these layers is substantially higher than most other GIS sources of similar things. The metadata is well-documented as well. 
 ### [Maryland iMAP imagery layers](https://geodata.md.gov/imap/rest/services/Imagery) 
 There are a few options - three inch (not available for all areas but super high resolution), six-inch (great resolution, statewide coverage), and NAIP (historical, pretty good resolution). All these are a great source of high resolution imagery you can use in any way you see fit. For analysis, I prefer the NAIP imagery layers as they usually are taken in Winter (no trees) and have been taken for over a decade (good for measuring change). I also prefer to deal with the "feature layers" instead of the imagery layers. But if you need help deciding how to deal with this stuff, as always [contact me](mailto:dan.knopp@gmail.com).
 If you do not feel comfortable downloading the imagery - just click [ArcGIS Online Map Viewer] and then on the map that pops up, click the pushpin, scroll to the bottom of the box that pops up, and click the [map](https://geodata.md.gov/imap/rest/services/Imagery/MD_SixInchImagery/MapServer?f=jsapi) in the box at the bottom. 
