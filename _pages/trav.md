@@ -43,6 +43,7 @@ Based on the NASA EarthData platform (requiring login), Census Grids are an esti
 ### [Census ZCTA layers for Maryland](https://data.imap.maryland.gov/datasets/eb706b48117b43d482c63d02017fc3ff_1) 
 This is a bunch of census variables at the zip-code level that you can use as ready made denominators.
 With any population data, be careful. There are some intricate details to analyzing these properly. But you will be good just making crude rates (number of incidents divided by population) for now. Ask me for help as always. 
+
 ### [Census Block layers for Maryland](https://geodata.md.gov/imap/rest/services/Demographics/MD_CensusBoundaries/MapServer)
 Tons of information about from the census, grouped at the census-block level. 
 
