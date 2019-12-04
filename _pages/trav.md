@@ -34,8 +34,8 @@ Requires a login, but it provides a high-resolution (1 sq. KM) distribution of g
 ### [Geocorr Geographic Correspondence Engine](http://mcdc.missouri.edu/applications/geocorr2000.html)
 For Census 2000, 2010 data, generate population demographics for several types of standard areas (Travel Analysis Zones, County, CBSA, Metropolitan Area, etc.)
 
-### [CensusScope.org](http://www.censusscope.org/)
-An easy tool for investigating U.S. demographic trends without downloading anything. Good for beginners and advanced users. Has maps, trends, rankings, and charts for any population demographic/area you need to examine. 
+### [AmericanFactFinder](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)
+Web-based tool to get any population variable from the Census (or the more recent American Community Survey) for your area. American Community Survey is what is used for estimating population demographics in the years since the 2010 census. 
 
 ### [US Census Grids](https://sedac.ciesin.columbia.edu/data/collection/usgrid)
 Based on the NASA EarthData platform (requiring login), Census Grids are an estimation of small-area (less than one sq. mile) population demographics. 
