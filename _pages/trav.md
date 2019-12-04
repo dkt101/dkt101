@@ -3,7 +3,7 @@ permalink: /trav/
 title: "Travel and Demographic Trends"
 author_profile: true
 ---
-## Resources for Open Data
+## Resources for Open Data on Population and Travel
 
 Learn about the people. These are the "denominators" to any numbers you produce. For example, say you use the [crash data](https://dkt101.github.io/dkt101/markdown/) to find out your street had 10 crashes last year. Is that a lot? Is it a little? We need to use the _travel patterns_ of the people to determine that! 
 
@@ -27,6 +27,15 @@ Use this guide to make a rough estimate of a small area (the example I use is a 
 
 ### [State of Maryland Traffic Volume Layers](https://www.arcgis.com/home/item.html?id=3f4b959826c34480be3e4740e4ee025f)
 Traffic volume for state roads and many local roads. [Extensive documentation](https://www.roads.maryland.gov/oppen/DSED%20Traffic%20Monitoring%20System%20Program.pdf) on how traffic volumes are calculated at this link. 
+
+### [LandScan Population Density](https://landscan.ornl.gov/)
+Requires a login, but it provides a high-resolution (1 sq. KM) distribution of global population data. This means within Baltimore City, you can estimate where most people live at a much smaller level then just using census blocks/tracts. Also has the advantage of being more up to date than similar services like this. 
+
+### [Geocorr Geographic Correspondence Engine](http://mcdc.missouri.edu/applications/geocorr2000.html)
+For Census 2000, 2010 data, generate population demographics for several types of standard areas (Travel Analysis Zones, County, CBSA, Metropolitan Area, etc.)
+
+### [CensusScope.org](http://www.censusscope.org/)
+An easy-to-use tool for investigating U.S. demographic trends, brought to you by the Social Science Data Analysis Network (SSDAN) at the University of Michigan. With eye-catching graphics and exportable trend data, CensusScope is designed for both generalists and specialists.
 
 ### [US Census Grids](https://sedac.ciesin.columbia.edu/data/collection/usgrid)
 Based on the NASA EarthData platform (requiring login), Census Grids are an estimation of small-area (less than one sq. mile) population demographics. 
