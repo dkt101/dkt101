@@ -35,7 +35,7 @@ Requires a login, but it provides a high-resolution (1 sq. KM) distribution of g
 For Census 2000, 2010 data, generate population demographics for several types of standard areas (Travel Analysis Zones, County, CBSA, Metropolitan Area, etc.)
 
 ### [CensusScope.org](http://www.censusscope.org/)
-An easy-to-use tool for investigating U.S. demographic trends, without downloading anything. Good for beginners and advanced users. 
+An easy tool for investigating U.S. demographic trends without downloading anything. Good for beginners and advanced users. Has maps, trends, rankings, and charts for any population demographic/area you need to examine. 
 
 ### [US Census Grids](https://sedac.ciesin.columbia.edu/data/collection/usgrid)
 Based on the NASA EarthData platform (requiring login), Census Grids are an estimation of small-area (less than one sq. mile) population demographics. 
