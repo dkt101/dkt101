@@ -28,6 +28,9 @@ Use this guide to make a rough estimate of a small area (the example I use is a 
 ### [State of Maryland Traffic Volume Layers](https://www.arcgis.com/home/item.html?id=3f4b959826c34480be3e4740e4ee025f)
 Traffic volume for state roads and many local roads. [Extensive documentation](https://www.roads.maryland.gov/oppen/DSED%20Traffic%20Monitoring%20System%20Program.pdf) on how traffic volumes are calculated at this link. 
 
+### [US Census Grids](https://sedac.ciesin.columbia.edu/data/collection/usgrid)
+Based on the NASA EarthData platform (requiring login), Census Grids are an estimation of small-area (less than one sq. mile) population demographics. 
+
 ### [Census ZCTA layers for Maryland](https://data.imap.maryland.gov/datasets/eb706b48117b43d482c63d02017fc3ff_1) 
 This is a bunch of census variables at the zip-code level that you can use as ready made denominators.
 With any population data, be careful. There are some intricate details to analyzing these properly. But you will be good just making crude rates (number of incidents divided by population) for now. Ask me for help as always. 
