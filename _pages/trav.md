@@ -28,6 +28,9 @@ Use this guide to make a rough estimate of a small area (the example I use is a 
 ### [State of Maryland Traffic Volume Layers](https://www.arcgis.com/home/item.html?id=3f4b959826c34480be3e4740e4ee025f)
 Traffic volume for state roads and many local roads. [Extensive documentation](https://www.roads.maryland.gov/oppen/DSED%20Traffic%20Monitoring%20System%20Program.pdf) on how traffic volumes are calculated at this link. 
 
+### [European Commission Global Human Settlement](https://ghsl.jrc.ec.europa.eu/datasets.php)
+More granular, worldwide spatial data on population distribution over the years, built environment, and more. 
+
 ### [LandScan Population Density](https://landscan.ornl.gov/)
 Requires a login, but it provides a high-resolution (1 sq. KM) distribution of global population data. This means within Baltimore City, you can estimate where most people live at a much smaller level then just using census blocks/tracts. Also has the advantage of being more up to date than similar services like this. 
 
