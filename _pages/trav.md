@@ -25,6 +25,9 @@ _Maryland Annual Person Trips by Mode for Urban and Rural Areas_
 ### [Guide I made about making rough estimates of census demographics for non-standard areas](https://docs.google.com/document/d/1kewfYNpu4Phy5iP5wWS39QggiLr670HWjyCBm4FltW0/edit?usp=sharing)
 Use this guide to make a rough estimate of a small area (the example I use is a zone around MICA) demographics. The main assumption is that the distribution of a population in a census block is even  (which it is not, there may be 60% of a census block's population in one small corner of the area). But it is a good start to get oriented to modelling. 
 
+### [Count of licensed drivers by county in Maryland](https://opendata.maryland.gov/Transportation/MVA-Driver-s-Licenses-Age-Stratification-by-County/hyut-sfvk)
+Good way to take crash data and use a denominator that is representative of the driving population - goes back multiple years. 
+
 ### [State of Maryland Traffic Volume Layers](https://www.arcgis.com/home/item.html?id=3f4b959826c34480be3e4740e4ee025f)
 Traffic volume for state roads and many local roads. [Extensive documentation](https://www.roads.maryland.gov/oppen/DSED%20Traffic%20Monitoring%20System%20Program.pdf) on how traffic volumes are calculated at this link. 
 
