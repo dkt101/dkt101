@@ -9,12 +9,12 @@ Learn about the people. These are the "denominators" to any numbers you produce.
 
 If 10 crashes happen every 20 cars, that is a lot more than 10 crashes every 200 cars! This is the power of this page. 
 
-Travel data
+
 ### [National Household Travel Survey (NHTS)](https://nhts.ornl.gov/)
 This is one of the best (free) options we have for estimating multimodal traffic. Most of the best options are paid and/or private. 
 The disadvantage of the NHTS is that it only goes down to urban and rural parts of the state, meaning that the trip counts are not at a city-street level. If you are good with modelling, you can turn this data into street-level.
 You would need to make sure your data matches the numbers you pull from NHTS. For example, one would need the total crashes for all urban areas in Maryland as an appropriate numerator, or all crashes in Maryland. 
-Ingest multiple years of the survey and conduct more powerful data manipulation with the [Weststat R NHTS](https://github.com/Westat-Transportation/summarizeNHTS) package. One of my favorite variables is TRPTRANS - which shows the mode of travel. Please read the [variable documentation](https://nhts.ornl.gov/assets/codebook.pdf) to better unstand the variables and how they are used. 
+Ingest multiple years of the survey and conduct more powerful data manipulation with the [Weststat R NHTS](https://github.com/Westat-Transportation/summarizeNHTS) package. One of my favorite variables is TRPTRANS - which shows the mode of travel. Please read the [variable documentation](https://nhts.ornl.gov/assets/codebook.pdf) to better understand the variables and how they are used. 
 [More help documentation for the NHTS here](https://nhts.ornl.gov/documentation.shtml). A [compendum](https://nhts.ornl.gov/compendium) of uses shows examples of how this powerful data can be utilized. There is also a web-based analysis tool [here](https://nhts.ornl.gov/tools.shtml).
 
 ![](https://raw.githubusercontent.com/dkt101/dkt101/master/images/nhtssample.PNG)
